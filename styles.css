@@ -1,5 +1,5 @@
 .container-1 {
-  margin: 50px 30%;
+  margin: 50px 15%;
 }
 
 body {
@@ -8,4 +8,9 @@ body {
 
 h5 {
   font-weight: 600;
+}
+
+#countdown {
+  font-size: 10rem;
+  color: red;
 }
